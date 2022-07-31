@@ -1,0 +1,7 @@
+f(n) = 5n^2 + 2n + 4 
+
+f(n) = 5n^2 -> spend time is long
+
+f(n) = O(g(n))
+
+step pertama : f(n) <= c.g(n)

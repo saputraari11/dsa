@@ -1,0 +1,13 @@
+naming penamaan dari sebuah code
+nama nya merupakan penyimpanan
+ibaranyat key-value 
+key akan tetap tapi value yang berubah ubah 
+key disini ialah naming dimana kita menamakan suatu alamat
+contoh dns
+dns itu ada domain nya dan ada ip nya
+tapi satu domain bisa nyimpan banyak ip tapi dengan syarat ganti ganti value
+konsep key-value juga sama ialah key bisa menyimpan banyak value yang berganti-ganti
+kemudian ada memory dimana memory menyimpan variable
+variable disini menyimpan banyak alamat yang berganti ganti 
+sifatnya key-value ini sementara karena valuenya berganti ganti atau tidak konsisten pada valuenya 
+konsistenya pada key karena key merupakan nilai mutlak atau nilai yang tidak dapat diganti

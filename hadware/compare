@@ -1,0 +1,28 @@
+Considering characteristics such as data capacity, access speed, volatility, read-only or read-write,
+the modern computer architecture uses HDDs or SSDs to store permanent data, and RAM for intermediate data.
+
+Programs will load files from the HDD or SSD to RAM, use RAM to calculate, and store necessary data in files on the HDD or SSD. 
+
+RAM is accessed frequently from programs, and therefore it is called the “main memory”. 
+
+In practical programming environments, when we use the word “memory”, we often mean RAM.
+
+Given RAM and HDD where the access speed is 10 GB/s and 100 MB/s respectively, we want to read a 3MB file 25 times. 
+
+Ignoring random access overhead and the cost of writing to RAM, which answer is correct regarding the speed of (A) and (B)?
+
+(A) load the file from the HDD to RAM once, and read from RAM 25 times.
+(B) read directly from the HDD 25 times.
+
+Answer
+
+10 GB/s is equivalent to 10000 10000 MB/s.
+
+Loading a 3 MB file once from the 100 MB/s HDD takes 3 / 100 = 0.03 s, whereas
+
+loading a 3 MB file once from the 10000 MB/s RAM takes 10000 = 0.0003 s.
+
+(A) 1×0.03+25×0.0003=0.0375 s, while
+(B) 25×0.03=0.75 s.
+
+0.75 / 0.0375 = 20. Therefore, (A) is 20 times faster than (B).

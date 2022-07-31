@@ -1,0 +1,10 @@
+ordered ialah dimana kita mengurutkan buku bedasarkan abjad dari suatu katagori dan katagori itu memiliki banyak isi yang berbeda
+search ialah dimana kita mengurutkan buku bedasarkan suatu katagori atau bisa dikatakan katagori yang memiliki sedikit banyak isi atau unik isinya
+ordered lebih rapi dengan abjad
+search lebih mudah dalam mencari buku bedasarkan katagori
+
+waktu lebih cepat search daripada ordered karena ordered harus mencari satu persatu dari abjad pertama atau angka pertama
+
+implementasi
+ordered dengan sorting
+search dengan group

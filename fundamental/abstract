@@ -1,0 +1,11 @@
+abstract disini ialah membuat mesin memahami kita dengan perantara bahasa pemrograman
+
+alurnya ialah 
+
+manusia -> bahasa pemrograman -> mesin(assembaly atau malah binary(1,0))
+
+nah jadi agar kita membuat mesin paham dengan kita,kita menggunakan bahasa pemrograman
+suatu saat akan ada complexsitas code atau code yang sangat banyak,kita perlu memecah kode itu menjadi part part dengan cara abstract
+jadi abstract itu membuat suatu perancangan dengan tujuan memecah kompleksitas kode agar kode menjadi mudah dibaca 
+abstract method tidak mementingkan cost karena tujuan nya ialah membuat kode menjadi mudah dibaca dengan waktu tertentu(bisa lama atau cepat).
+
