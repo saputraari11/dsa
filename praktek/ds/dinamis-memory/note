@@ -1,7 +1,0 @@
-calloc adalah function alokasi dengan inisiasi 0 dan multiple block atau kita bisa sebut array tapi dengan value 0 semua,ini juga perlu di casting karena defaultnya void pointer
-malloc adalah function alokasi tanpa inisiasi,maka dari itu perlu di casting menjadi tipe data yang diinginkan dan defaultnya membuat satu block atau kita sebut variable
-realloc adalah function realokasi size atau ukuran penyimanan dari memory sebelumnya,simplenya memperbesar atau memperkecil size memory tanpa inisiasi
-free adalah function untuk mengosongkan penyimpanan dari suatu alamat memory
-
-better calloc than malloc for perfoms time because all value is zero without iterate
-better malloc than calloc for perfoms because calloc initilies the value is zero for all => for memory
