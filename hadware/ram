@@ -1,6 +1,0 @@
-RAM is a semicondor module that stores data within an integrated circuit that can hold up to a few GB of data. 
-RAM is typically about 100 times faster than HDDs, and about 100 times more expensive for the same amount of data capacity. 
-RAM does not have a significant speed decrease on random access. 
-RAM is a volatile memory which can only hold data when power is provided, and will lose data when power is removed. 
-Devices like HDDs and DVDs are non-volatile since they can hold data when power is removed.
-
