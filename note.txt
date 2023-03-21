@@ -1,0 +1,14 @@
+array dan hashmap
+
+kesimpulan:
+
+1. sering digunakan untuk checking dengan hasil baru atau nilai boolean.
+2. ada juga digunakan untuk manipulating data menjadi data yang sudah di modifikasi bedasarkan suatu kondisi.
+
+two pointer
+
+kesimpulan:
+
+1. sering digunakan untuk optimisasi kompleksitas tinggi
+2. biasanya digunakan untuk check 1 element dengan semua element berikutnya
+3. biasanya digunakan untuk proses dari suatu data menjadi data baru
