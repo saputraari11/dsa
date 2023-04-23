@@ -9,6 +9,13 @@ two pointer
 
 kesimpulan:
 
-1. sering digunakan untuk optimisasi kompleksitas tinggi
-2. biasanya digunakan untuk check 1 element dengan semua element berikutnya
-3. biasanya digunakan untuk proses dari suatu data menjadi data baru
+1. sering digunakan untuk optimisasi brute force dengan menggunakan dua pointer dari dua arah yang berbeda. (biasanya awal dan akhir)
+2. sering digunakan untuk processing data baru
+3. kadang digunakan untuk validasi
+
+stack
+
+kesimpulan
+1. sering digunakan untuk validasi antara data baru dengan data lama dengan menggunakan pointer terakhir
+2. sering digunakan untuk processing data baru
+3. kadang digunakan untuk validasi 
